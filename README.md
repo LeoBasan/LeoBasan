@@ -57,7 +57,7 @@ I have experience working on **academic, personal and freelance projects**, appl
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LeoBasan&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=leobasan&show_icons=true&theme=dark&cache_seconds=86400" />
 </p>
 
 <p align="center">
