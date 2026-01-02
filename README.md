@@ -1,3 +1,5 @@
+👉 Read this in [Spanish 🇪🇸](README_ES.md)
+
 <h1 align="center">Hi 👋, I'm Leopoldo Basanta</h1>
 <h3 align="center">University Programmer Technician | Web Developer</h3>
 
